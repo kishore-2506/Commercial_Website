@@ -1,5 +1,5 @@
 # Ex02 Commercial Website
-## Date:
+
 ## Date: 27.02.26
 
 ## AIM
